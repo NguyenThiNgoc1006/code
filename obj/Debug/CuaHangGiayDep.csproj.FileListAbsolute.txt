@@ -1,0 +1,11 @@
+C:\baitapchuong4\CuaHangGiayDep\bin\Debug\CuaHangGiayDep.exe
+C:\baitapchuong4\CuaHangGiayDep\bin\Debug\CuaHangGiayDep.pdb
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.csprojAssemblyReference.cache
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.Properties.Resources.resources
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.csproj.GenerateResource.cache
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.exe
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.pdb
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.FrmNhaCungCap.resources
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.FrmNuocSX.resources
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.FrmMau.resources
+C:\baitapchuong4\CuaHangGiayDep\obj\Debug\CuaHangGiayDep.FrmDoiTuong.resources
